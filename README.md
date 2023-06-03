@@ -5,7 +5,7 @@ Eu sou Alex da Costa. Bem-vindo(a) ao meu perfil do GitHub!
 ## Sobre mim
 
 - 👩‍💻 Desenvolvedor de Software
-- 🌍 Localização: Sorocaba, SP.
+- 🌍 Localização: Sorocaba, SP
 - 💼 Empresa: Bitfy
 
 ## Habilidades
