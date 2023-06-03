@@ -18,6 +18,7 @@ Eu sou Alex da Costa. Bem-vindo(a) ao meu perfil do GitHub!
 
 Aqui estão alguns dos meus projetos mais recentes e notáveis:
 
+- [Ignite Shop](https://github.com/venturions/ignite-shop): A Ignite Shop é uma aplicação de compra de camisetas, desenvolvida com React, Next.js e TypeScript. Permite que os usuários explorem, adicionem ao carrinho e façam checkout de camisetas. Utiliza a API da Stripe para listagem das camisetas e para processar os pagamentos.
 - [Github Blog](https://github.com/venturions/github-blog): Aplicação que consome a API do GitHub para exibir informações do meu usuário e criar posts baseados nos issues do meu repositório do Github Blog. Utilizei o Next 13 juntamente com o TailwindCSS para aprimorar minhas habilidades e conhecer mais sobre as novas funcionalidades do Next 13.
 - [Coffee Delivery](https://github.com/venturions/rocketseat-desafio-coffe-delivery): Neste desafio do Bootcamp da Rocketseat, desenvolvi uma aplicação de loja virtual de cafés utilizando os fundamentos do React, juntamente com TypeScript. A aplicação foi estruturada com boas práticas de programação, clean code e utilização de bibliotecas para facilitar o desenvolvimento.
 
