@@ -12,7 +12,7 @@ Eu sou Alex da Costa. Bem-vindo(a) ao meu perfil do GitHub!
 
 - Linguagens de Programação: Typescript
 - Frameworks: React, Next.js, React Native, Node.js
-- Ferramentas: HTML, CSS, Tailwind CSS, SASS, Styled Components, Material UI, Radix, Zustand, Stitches, Prisma, NextAuth
+- Ferramentas: HTML, CSS, Jest, React Testing Library, Tailwind CSS, SASS, Styled Components, Material UI, Radix, Zustand, Stitches, Prisma, NextAuth
 
 ## Projetos Destacados
 
