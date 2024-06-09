@@ -6,7 +6,7 @@ Eu sou Alex da Costa. Bem-vindo(a) ao meu perfil do GitHub!
 
 - 👩‍💻 Desenvolvedor de Software
 - 🌍 Localização: Sorocaba, SP
-- 💼 Empresa: NAVA | Technology for business
+- 💼 Empresa: Suprema Gaming & CO
 
 ## Habilidades
 
